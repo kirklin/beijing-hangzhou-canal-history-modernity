@@ -1,11 +1,7 @@
-<div align='center'>
-<h1>Boot-Vue </h1>
-<img src='README.assets/logo.png' alt='Boot-Vue - Opinionated Vite Starter Template' width='344'/>
-</div>
+# beijing-hangzhou-canal-history-modernity
 
-<p align='center'>
-Mocking up web app with <b>Boot-Vue </b><sup><em>(speed)</em></sup><br>
-</p>
+Welcome to the Historical Journey of the Beijing-Hangzhou Grand Canal
+This website is dedicated to showcasing the rich history, cultural value, and ongoing impact of the Beijing-Hangzhou Grand Canal in modern society. As the longest artificial river in the world, the Grand Canal not only bears witness to the wisdom and diligence of ancient Chinese laborers but also serves as a vital link connecting the north and south of China.
 
 <div align='center'>
 <b>English</b> | <a href="README.zh-CN.md">简体中文</a>
@@ -37,14 +33,10 @@ Mocking up web app with <b>Boot-Vue </b><sup><em>(speed)</em></sup><br>
 - 💻 [VSCode](https://code.visualstudio.com/)
 - 💡 [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
 
-### Performance
-
-<img src='README.assets/BootVue-Lighthouse.png' alt='Boot-Vue Outstanding performance' width='1851'/>
-
 ## directory
 
 ```
-# boot-vue
+# beijing-hangzhou-canal-history-modernity
 ├─.github                                # Stores GitHub related configuration files.
 │  ├─ISSUE_TEMPLATE                       # GitHub Issue templates
 │  └─workflows                            # GitHub Actions related configuration files
@@ -88,14 +80,10 @@ Mocking up web app with <b>Boot-Vue </b><sup><em>(speed)</em></sup><br>
 
 ## Try it now!
 
-### GitHub Template
-
-[Create a repo from this template on GitHub](https://github.com/kirklin/boot-vue/generate).
-
 ### Clone to local
 
 ```bash
-npx degit kirklin/boot-vue my-app
+npx degit kirklin/beijing-hangzhou-canal-history-modernity my-app
 cd my-app
 pnpm i
 ```

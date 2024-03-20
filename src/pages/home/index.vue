@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import Hero from "./components/Hero.vue";
-import StoreTest from "./components/StoreTest.vue";
+import Stats from "./components/Stats.vue";
+import Feature from "./components/Feature.vue";
 
 defineOptions({
   name: "Home",
@@ -9,7 +10,8 @@ defineOptions({
 
 <template>
   <Hero />
-  <StoreTest />
+  <Stats />
+  <Feature />
 </template>
 
 <style scoped></style>

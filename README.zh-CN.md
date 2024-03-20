@@ -1,10 +1,8 @@
-<div align='center'>
-<h1>Boot-Vue </h1>
-<img src='README.assets/logo.png' alt='Boot-Vue - Opinionated Vite Starter Template' width='344'/>
-</div>
+# 京杭大运河：历史与现代的交融
 
 <p align='center'>
-使用Boot-Vue快速地创建 Web 应用
+欢迎来到京杭大运河的历史探索之旅
+这个网站致力于向您展示京杭大运河的丰富历史、文化价值以及其在现代社会中的持续影响。京杭大运河，作为世界上最长的人工河流，不仅见证了中国古代劳动人民的智慧和勤劳，也是连接中国南北的重要纽带。
 </p>
 
 ## 特性
@@ -33,14 +31,10 @@
 - 💻 [VSCode](https://code.visualstudio.com/)
 - 💡 [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
 
-### 性能
-
-<img src='README.assets/BootVue-Lighthouse.png' alt='Boot-Vue Outstanding performance' width='1851'/>
-
 ## 项目结构
 
 ```
-# boot-vue
+# beijing-hangzhou-canal-history-modernity
 ├─.github                                # 存储 GitHub 相关配置文件。
 │  ├─ISSUE_TEMPLATE                       # GitHub Issue 模板
 │  └─workflows                            # GitHub Actions 相关配置文件
@@ -84,14 +78,10 @@
 
 ## 快来试试吧！！
 
-### GitHub 模板
-
-[使用这个模板创建仓库](https://github.com/kirklin/boot-vue/generate).
-
 ### 克隆到本地
 
 ```bash
-npx degit kirklin/boot-vue my-app
+npx degit kirklin/beijing-hangzhou-canal-history-modernity my-app
 cd my-app
 pnpm i
 ```
